@@ -1,8 +1,7 @@
-
 module.exports = {
-    'secret':'meansecure',
-    'database': 'mongodb+srv://wassim:G5ahBtpR!R-2NfJ@cluster0.2dydhsz.mongodb.net/myDB?retryWrites=true&w=majority',
-     useNewUrlParser: true 
-   // LKhtFDNGXmnXUxhl
-  };
-
+  secret: "meansecure",
+  database:
+    "mongodb+srv://SEEDEVS:63TQpXqqxEGDmrQG@seedevs.byt9i.mongodb.net/myDB?retryWrites=true&w=majority",
+  useNewUrlParser: true,
+  //63TQpXqqxEGDmrQG
+};
